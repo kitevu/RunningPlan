@@ -1,6 +1,6 @@
-# 50KM Ultra Trail Training Roadmap
+# 2026 Ultra Trail Season Roadmap
 
-Responsive React + Tailwind dashboard for a city-based runner preparing for a 50km ultra trail race.
+Responsive React + Tailwind dashboard for a city-based runner preparing for Yên Tử Ultra Trail 25K and Cao Bằng Ultra Trail 70K in 2026.
 
 ## Stack
 
